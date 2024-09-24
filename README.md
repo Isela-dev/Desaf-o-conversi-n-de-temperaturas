@@ -1,8 +1,10 @@
-# Desaf-o-conversi-n-de-temperaturas
+# Desafio-conversion-de-temperaturas
 Este repositorio contiene un proyecto de conversión de temperaturas, desarrollado como parte del curso de Backend de Alura. El objetivo de este proyecto es aplicar los conceptos aprendidos en la lección sobre variables y conversiones de unidades.
-![Lenguaje](https://img.shields.io/badge/lenguaje-JavaScript-brightgreen)
+![Lenguaje](https://img.shields.io/badge/lenguaje-Java-orange)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue)
 ![Estado](https://img.shields.io/badge/estado-completo-success)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 
 # Conversión de Temperaturas
 
